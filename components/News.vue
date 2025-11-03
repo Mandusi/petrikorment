@@ -34,13 +34,6 @@
 						image="/new-8_1.jpeg"
 					/>
 				</NuxtLink>
-				<NuxtLink to="/news/9">
-					<NewsCard
-						title="Hukukta İleri: Kayseri Ticaret Odası İşbirliğinde..."
-						date="30 Mayıs 2025"
-						image="/new-9.jpeg"
-					/>
-				</NuxtLink>
 
 				<template v-for="(announcement, index) in announcements" :key="index">
 					<NuxtLink :to="`/news/${announcement.id}`">
