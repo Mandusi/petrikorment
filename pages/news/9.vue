@@ -21,7 +21,7 @@
 					ve Geleceğin Meslek Pratikleri
 				</h1>
 				<div class="flex gap-6 text-slate-400">
-					<span>14 Temmuz 2025</span>
+					<span>30 Mayıs 2025</span>
 					<span>2 dakika okuma</span>
 				</div>
 			</div>

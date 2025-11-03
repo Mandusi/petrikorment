@@ -20,7 +20,7 @@
 					GC Elite Türkiye 2025 Etkinliğinde Yer Aldık!
 				</h1>
 				<div class="flex gap-6 text-slate-400">
-					<span>14 Temmuz 2025</span>
+					<span>21 Temmuz 2025</span>
 					<span>3 dakika okuma</span>
 				</div>
 			</div>

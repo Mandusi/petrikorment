@@ -3,11 +3,11 @@
 		ref="ScrollPosition"
 		class="flex h-screen w-full flex-col items-end justify-between overflow-hidden pb-16 md:items-center"
 	>
-		<div class="absolute left-0 right-0 -z-10 overflow-hidden">
+		<div class="absolute left-0 right-0 -z-10 flex justify-end overflow-hidden">
 			<img
 				src="/hill-3.png"
 				alt="background"
-				class="h-screen w-full min-w-fit translate-x-0 object-cover max-md:-translate-x-[30%] max-sm:-translate-x-[55%] md:translate-x-0"
+				class="h-screen w-full min-w-full object-cover"
 			/>
 		</div>
 

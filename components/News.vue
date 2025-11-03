@@ -6,24 +6,17 @@
 		<div class="z-10 flex min-h-[480px] w-full flex-col gap-5 rounded-3xl bg-white p-10">
 			<h1 class="text-center font-mega text-5xl font-semibold sm:text-left">Duyurular</h1>
 			<div class="flex gap-10 overflow-x-auto">
-				<NuxtLink to="/news/9">
+				<NuxtLink to="/news/10">
 					<NewsCard
-						title="Hukukta İleri: Kayseri Ticaret Odası İşbirliğinde..."
-						date="14 Temmuz 2025"
-						image="/new-9.jpeg"
-					/>
-				</NuxtLink>
-				<NuxtLink to="/news/8">
-					<NewsCard
-						title="David Goulthorpe Erciyes Üniversitesi'nde!"
-						date="14 Temmuz 2025"
-						image="/new-8_1.jpeg"
+						title="Mentörlük Zirvesi – 21 Kasım 2025"
+						date="26 Ekim 2025"
+						image="/new-10.jpg"
 					/>
 				</NuxtLink>
 				<NuxtLink to="/news/7">
 					<NewsCard
 						title="GC Elite Türkiye 2025 Etkinliğinde Yer Aldık!"
-						date="14 Temmuz 2025"
+						date="21 Temmuz 2025"
 						image="/new-7_2.jpeg"
 					/>
 				</NuxtLink>
@@ -32,6 +25,20 @@
 						title="İklim Kanunu ve Sürdürülebilirlik Webinarı!"
 						date="14 Temmuz 2025"
 						image="/new-6_1.jpeg"
+					/>
+				</NuxtLink>
+				<NuxtLink to="/news/8">
+					<NewsCard
+						title="David Goulthorpe Erciyes Üniversitesi'nde!"
+						date="12 Haziran 2025"
+						image="/new-8_1.jpeg"
+					/>
+				</NuxtLink>
+				<NuxtLink to="/news/9">
+					<NewsCard
+						title="Hukukta İleri: Kayseri Ticaret Odası İşbirliğinde..."
+						date="30 Mayıs 2025"
+						image="/new-9.jpeg"
 					/>
 				</NuxtLink>
 
