@@ -37,6 +37,7 @@
 					{{ text }}
 				</p>
 			</div>
+
 			<div
 				v-if="announcement.filePath"
 				class="flex w-full max-w-[700px] items-center justify-center gap-4 border-t-2 p-5"

@@ -1,12 +1,13 @@
 export default defineNuxtConfig({
 	app: {
 		head: {
-			title: 'Petrichor',
+			title: 'Petrikorment',
 			meta: [
 				{ charset: 'utf-8' },
 				{ name: 'viewport', content: 'width=device-width, initial-scale=1' },
 			],
 			script: [],
+			link: [{ rel: 'icon', type: 'image/png', href: '/logoPetrikor.png' }],
 		},
 	},
 

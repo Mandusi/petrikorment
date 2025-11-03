@@ -90,15 +90,13 @@
 					</div>
 					<div class="flex flex-col justify-center gap-4"
 						><h1 class="font-mega text-4xl">Misyonumuz</h1>
-						<p
-							>Genç hukukçuların mesleğe adım attıkları ilk dönemde karşılaştıkları
-							zorlukları hafifletmek ve onlara yön göstermek için somut çözümler
-							sunuyoruz. Bilgi paylaşımı, deneyim aktarımı ve güçlü bir iletişim ağı
-							oluşturarak katılımcıların mesleki ve kişisel gelişimlerine destek oluyoruz.
-							Mentörlük programlarımız sayesinde, deneyimli profesyoneller ile genç
-							meslektaşlar arasında köprü kuruyoruz. Sektör panellerimizle de güncel
-							gelişmeleri katılımcılara aktarıyor, mesleğin farklı alanlarına dair
-							farkındalık sağlıyoruz.
+						<p>
+							Bilgi paylaşımı, deneyim aktarımı ve güçlü bir iletişim ağı oluşturarak
+							katılımcıların mesleki ve kişisel gelişimlerine destek oluyoruz. Mentörlük
+							programlarımız sayesinde, deneyimli profesyoneller ile genç meslektaşlar
+							arasında köprü kuruyoruz. Sektör panellerimizle de güncel gelişmeleri
+							katılımcılara aktarıyor, mesleğin farklı alanlarına dair farkındalık
+							sağlıyoruz.
 						</p></div
 					>
 					<!-- ICONS -->
